@@ -1,0 +1,19 @@
+body {
+background-color: #f5f5dd;
+
+}
+div {
+background-color: black;
+    width: 150px;
+    
+    height: 150px;
+}
+.itm4 {
+    background-color:rgba(0,0,0,0.2);
+}
+.itm3 {
+    background-color: rgba(0,0,0,0.5);
+}
+.itm2 {
+    background-color: rgba(0,0,0,0.8);
+}
